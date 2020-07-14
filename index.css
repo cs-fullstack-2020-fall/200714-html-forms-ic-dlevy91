@@ -18,14 +18,20 @@ div {
     margin-bottom: 4%;
 
 }
-
+/* added border */
 button {
     background-color: green;
     color: white;
     border-radius: 5px;
+    border: white 1px solid;
 }
 /* Found this with google actually on stack overflow */
 label {
      display: inline-block; width: 83px; 
     
+}
+/* added input color and radius */
+input {
+    border-radius: 5px;
+    border: 1px green solid;
 }
