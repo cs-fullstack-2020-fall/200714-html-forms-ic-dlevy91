@@ -1,0 +1,31 @@
+body {
+    background-color: lightgrey;
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 40%;
+    
+}
+
+form {
+    border: black 1px solid;
+    padding: 4%;
+    border-radius: 5px;
+    font-family: sans-serif;
+    
+}
+
+div {
+    margin-bottom: 4%;
+
+}
+
+button {
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
+/* Found this with google actually on stack overflow */
+label {
+     display: inline-block; width: 83px; 
+    
+}
